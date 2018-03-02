@@ -1,0 +1,41 @@
+dark-color {
+    --main-text-color: #343a40;
+}
+
+.navbar-brand {
+    font-size: 1.75em;
+}
+
+.navbar-brand span {
+    display: block;
+    font-size: .75em;
+}
+
+#myTab {
+    margin-top: 2%;
+}
+
+.tab-content {
+    text-align: center;
+    width: 80%;
+    margin: 2% 10%;
+    background-color:var(--main-text-color);
+}
+
+.tab-content h3 {
+    font-size: 1.25em;
+}
+
+.nav-link {
+    color:var(--main-text-color);
+}
+
+.contact ul li {
+    display: inline-block;
+    list-style: none;
+    padding: 2% 2%;
+}
+
+.contact a {
+    color: #343a40;
+}
